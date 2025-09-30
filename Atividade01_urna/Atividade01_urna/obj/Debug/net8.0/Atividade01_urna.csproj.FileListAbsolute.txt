@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_urna\Atividade01_urna\bin\Debug\net8.0\Atividade01_urna.exe
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_urna\Atividade01_urna\bin\Debug\net8.0\Atividade01_urna.deps.json
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_urna\Atividade01_urna\bin\Debug\net8.0\Atividade01_urna.runtimeconfig.json
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_urna\Atividade01_urna\bin\Debug\net8.0\Atividade01_urna.dll
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_urna\Atividade01_urna\bin\Debug\net8.0\Atividade01_urna.pdb
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_urna\Atividade01_urna\obj\Debug\net8.0\Atividade01_urna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_urna\Atividade01_urna\obj\Debug\net8.0\Atividade01_urna.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_urna\Atividade01_urna\obj\Debug\net8.0\Atividade01_urna.AssemblyInfo.cs
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_urna\Atividade01_urna\obj\Debug\net8.0\Atividade01_urna.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_urna\Atividade01_urna\obj\Debug\net8.0\Atividade01_urna.dll
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_urna\Atividade01_urna\obj\Debug\net8.0\refint\Atividade01_urna.dll
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_urna\Atividade01_urna\obj\Debug\net8.0\Atividade01_urna.pdb
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_urna\Atividade01_urna\obj\Debug\net8.0\Atividade01_urna.genruntimeconfig.cache
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_urna\Atividade01_urna\obj\Debug\net8.0\ref\Atividade01_urna.dll
