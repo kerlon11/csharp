@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_calculdora\Atividade01_calculdora\bin\Debug\net8.0\Atividade01_calculdora.exe
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_calculdora\Atividade01_calculdora\bin\Debug\net8.0\Atividade01_calculdora.deps.json
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_calculdora\Atividade01_calculdora\bin\Debug\net8.0\Atividade01_calculdora.runtimeconfig.json
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_calculdora\Atividade01_calculdora\bin\Debug\net8.0\Atividade01_calculdora.dll
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_calculdora\Atividade01_calculdora\bin\Debug\net8.0\Atividade01_calculdora.pdb
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_calculdora\Atividade01_calculdora\obj\Debug\net8.0\Atividade01_calculdora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_calculdora\Atividade01_calculdora\obj\Debug\net8.0\Atividade01_calculdora.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_calculdora\Atividade01_calculdora\obj\Debug\net8.0\Atividade01_calculdora.AssemblyInfo.cs
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_calculdora\Atividade01_calculdora\obj\Debug\net8.0\Atividade01_calculdora.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_calculdora\Atividade01_calculdora\obj\Debug\net8.0\Atividade01_calculdora.dll
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_calculdora\Atividade01_calculdora\obj\Debug\net8.0\refint\Atividade01_calculdora.dll
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_calculdora\Atividade01_calculdora\obj\Debug\net8.0\Atividade01_calculdora.pdb
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_calculdora\Atividade01_calculdora\obj\Debug\net8.0\Atividade01_calculdora.genruntimeconfig.cache
+C:\Users\aluno\Desktop\atividade01.cs\Atividade01_calculdora\Atividade01_calculdora\obj\Debug\net8.0\ref\Atividade01_calculdora.dll
