@@ -1,0 +1,28 @@
+C:\Users\aluno\Desktop\atividades\atividades\atividades\bin\Debug\net8.0\atividades.exe
+C:\Users\aluno\Desktop\atividades\atividades\atividades\bin\Debug\net8.0\atividades.deps.json
+C:\Users\aluno\Desktop\atividades\atividades\atividades\bin\Debug\net8.0\atividades.runtimeconfig.json
+C:\Users\aluno\Desktop\atividades\atividades\atividades\bin\Debug\net8.0\atividades.dll
+C:\Users\aluno\Desktop\atividades\atividades\atividades\bin\Debug\net8.0\atividades.pdb
+C:\Users\aluno\Desktop\atividades\atividades\atividades\obj\Debug\net8.0\atividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\atividades\atividades\atividades\obj\Debug\net8.0\atividades.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\atividades\atividades\atividades\obj\Debug\net8.0\atividades.AssemblyInfo.cs
+C:\Users\aluno\Desktop\atividades\atividades\atividades\obj\Debug\net8.0\atividades.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\atividades\atividades\atividades\obj\Debug\net8.0\atividades.dll
+C:\Users\aluno\Desktop\atividades\atividades\atividades\obj\Debug\net8.0\refint\atividades.dll
+C:\Users\aluno\Desktop\atividades\atividades\atividades\obj\Debug\net8.0\atividades.pdb
+C:\Users\aluno\Desktop\atividades\atividades\atividades\obj\Debug\net8.0\atividades.genruntimeconfig.cache
+C:\Users\aluno\Desktop\atividades\atividades\atividades\obj\Debug\net8.0\ref\atividades.dll
+C:\Users\aluno\Desktop\atividades\atividade 1\atividades\bin\Debug\net8.0\atividades.exe
+C:\Users\aluno\Desktop\atividades\atividade 1\atividades\bin\Debug\net8.0\atividades.deps.json
+C:\Users\aluno\Desktop\atividades\atividade 1\atividades\bin\Debug\net8.0\atividades.runtimeconfig.json
+C:\Users\aluno\Desktop\atividades\atividade 1\atividades\bin\Debug\net8.0\atividades.dll
+C:\Users\aluno\Desktop\atividades\atividade 1\atividades\bin\Debug\net8.0\atividades.pdb
+C:\Users\aluno\Desktop\atividades\atividade 1\atividades\obj\Debug\net8.0\atividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\atividades\atividade 1\atividades\obj\Debug\net8.0\atividades.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\atividades\atividade 1\atividades\obj\Debug\net8.0\atividades.AssemblyInfo.cs
+C:\Users\aluno\Desktop\atividades\atividade 1\atividades\obj\Debug\net8.0\atividades.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\atividades\atividade 1\atividades\obj\Debug\net8.0\atividades.dll
+C:\Users\aluno\Desktop\atividades\atividade 1\atividades\obj\Debug\net8.0\refint\atividades.dll
+C:\Users\aluno\Desktop\atividades\atividade 1\atividades\obj\Debug\net8.0\atividades.pdb
+C:\Users\aluno\Desktop\atividades\atividade 1\atividades\obj\Debug\net8.0\atividades.genruntimeconfig.cache
+C:\Users\aluno\Desktop\atividades\atividade 1\atividades\obj\Debug\net8.0\ref\atividades.dll
